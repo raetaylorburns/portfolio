@@ -15,13 +15,10 @@ publishDir = "docs"
 [params]
     # Meta
 
-	name = "Rae Taylor-Burns"
-	description = "Artist + Scientist"
-	author = "Rae Taylor-Burns"
 
-#    title = "Rae Taylor-Burns"
+    title = "Rae Taylor-Burns"
 #    author = "Rae Taylor-Burns"
-#    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    description = "scientist + artist"
 #    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 
     # Body background color
