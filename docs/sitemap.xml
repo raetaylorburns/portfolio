@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/</loc>
+    <lastmod>2019-10-16T07:23:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/contact/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/creations/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/science/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://raetaylorburns.github.io/portfolio/tags/</loc>
+  </url>
+  
+</urlset>

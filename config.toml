@@ -10,7 +10,7 @@ sectionPagesMenu = "main"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "docs"
+publishDir = "docs"
 
 [params]
     # Meta
