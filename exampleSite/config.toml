@@ -2,8 +2,6 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
 sectionPagesMenu = "main"
-theme = "frances"
-publishDir = "docs"
 
 [params]
 	name = "Frances Hodgkins"
