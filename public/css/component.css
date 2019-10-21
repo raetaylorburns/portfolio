@@ -10,8 +10,7 @@
 	display: inline-block;
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
-	/*height: 250px;*/
-	height: auto;
+	height: 250px;
 }
 
 .og-grid li > a,
@@ -20,8 +19,6 @@
 	outline: none;
 	display: block;
 	position: relative;
-	max-width: 100%;
-	height: auto;
 }
 
 .og-grid li.og-expanded > a::after {
@@ -40,14 +37,14 @@
 
 .og-expander {
 	position: absolute;
-	background: white;
+	background: #ddd;
 	top: auto;
 	left: 0;
 	width: 100%;
 	margin-top: 10px;
 	text-align: left;
 	height: 0;
-	overflow: scroll;
+	overflow: hidden;
 }
 
 .og-expander-inner {
@@ -139,7 +136,7 @@
 }
 
 .og-details a::before {
-	/*content: '\2192';*/
+	content: '\2192';
 	display: inline-block;
 	margin-right: 10px;
 }
@@ -153,7 +150,7 @@
 	width: 20px;
 	height: 20px;
 	border-radius: 50%;
-	background: #f8f9fa;
+	background: #ddd;
 	box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ccc;
 	position: absolute;
 	top: 50%;
@@ -165,21 +162,21 @@
 }
 
 @-webkit-keyframes loader {
-	0% { background: #f8f9fa; }
-	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #f8f9fa; }
-	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #f8f9fa, -15px 30px 1px #ccc; }
+	0% { background: #ddd; }
+	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
+	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
 }
 
 @-moz-keyframes loader {
-	0% { background: #f8f9fa; }
-	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #f8f9fa; }
-	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #f8f9fa, -15px 30px 1px #ccc; }
+	0% { background: #ddd; }
+	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
+	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
 }
 
 @keyframes loader {
-	0% { background: #f8f9fa; }
-	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #f8f9fa; }
-	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #f8f9fa, -15px 30px 1px #ccc; }
+	0% { background: #ddd; }
+	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
+	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
 }
 
 @media screen and (max-width: 830px) {
@@ -191,7 +188,8 @@
 }
 
 @media screen and (max-width: 650px) {
+
 	.og-fullimg { display: none; }
 	.og-details { float: none; width: 100%; }
-	.og-expander-inner { height: auto; }
+	
 }

@@ -4,7 +4,7 @@ baseurl = "https://raetaylorburns.github.io/portfolio/"
 
 languageCode = "en-us"
 title = "Rae Taylor-Burns"
-theme = "frances"
+theme = "hugged"
 sectionPagesMenu = "main"
 
 contentdir = "content"
