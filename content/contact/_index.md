@@ -1,14 +1,9 @@
 ---
 title: "Contact"
 date: 2019-05-12T12:14:34+06:00
-description: "links and email"
-authorImage : "img/shells.jpg"
+description: "This is meta description."
+authorImage : "images/about/author.jpg"
 type: "post"
 ---
 
-![](/img/shells.jpg)
-
-
-You can check out  my paint-stagram [here] (https://instagram.com/rae_paints)
-
-To inquire about art, science, commissions, or anything else, email raetaylorburns at gmail dot com or shoot me a direct message on instagram.
+Nunc nec bibendum ipsum. Pellentesque pretium tristique magna sed condimentum. Phasellus vitae nulla a turpis lobortis lobortis. Nulla a ipsum sem. Aenean malesuada, eros ut cursus cursus, turpis nulla auctor ex, finibus sodales enim odio ac ex. Vivamus lectus felis, sollicitudin sed vestibulum sit amet, egestas dignissim metus. Praesent suscipit accumsan enim eget viverra.
