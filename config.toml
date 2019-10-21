@@ -1,6 +1,6 @@
 # Site settings
 #baseurl = "http://example.org/"
-baseurl = "https://raetaylorburns.github.io/portfolio/"
+baseurl = "https://raetaylorburns.com"
 
 languageCode = "en-us"
 title = "Rae Taylor-Burns"

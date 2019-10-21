@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rae Taylor-Burns</title>
-    <link>https://raetaylorburns.github.io/portfolio/</link>
+    <link>https://raetaylorburns.com/</link>
     <description>Recent content on Rae Taylor-Burns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://raetaylorburns.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raetaylorburns.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
