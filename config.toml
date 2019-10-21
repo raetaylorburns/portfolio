@@ -16,7 +16,7 @@ publishDir = "docs"
     # Meta
 
     title = "Rae Taylor-Burns. Scientist + Artist."
-    subtitle = "Enjoys painting, throwing big pots and surfing small waves. Developing solutions that aid coastal communities and planners in coping with a changing climate. Studying how coastal habitat can increase resiliency to storms and rising sea levels. Learn more about previous projects here. To inquire about art, science, commissions, or anything else email raetaylorburns at gmail dot com or direct message @rae_paints on instagram."
+    subtitle = "Enjoys painting, throwing big pots and surfing small waves. Developing solutions that aid coastal communities and planners in coping with a changing climate. Studying how coastal habitat can increase resiliency to storms and rising sea levels. Learn more about previous projects at resilienseas.github.io. To inquire about art, science, commissions, or anything else email raetaylorburns at gmail dot com or direct message @rae_paints on instagram."
 #    author = "Rae Taylor-Burns"
     description = "scientist + artist"
 #    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
