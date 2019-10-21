@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://raetaylorburns.github.io/portfolio/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://raetaylorburns.github.io/portfolio/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 07:23:18 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="https://raetaylorburns.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raetaylorburns.github.io/portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

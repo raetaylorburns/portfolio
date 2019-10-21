@@ -1,0 +1,28 @@
+# Site settings
+#baseurl = "http://example.org/"
+baseurl = "https://raetaylorburns.github.io/portfolio/"
+
+languageCode = "en-us"
+title = "Rae Taylor-Burns"
+theme = "frances"
+sectionPagesMenu = "main"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishDir = "docs"
+
+[params]
+    # Meta
+
+
+    title = "Rae Taylor-Burns"
+#    author = "Rae Taylor-Burns"
+    description = "scientist + artist"
+#    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']

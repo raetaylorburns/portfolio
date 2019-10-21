@@ -1,3 +1,6 @@
 [submodule "hugrid"]
 	path = hugrid
 	url = https://github.com/aerohub/hugrid.git
+[submodule "themes/frances"]
+	path = themes/frances
+	url = https://github.com/mcrwfrd/hugo-frances-theme.git
