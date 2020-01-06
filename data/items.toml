@@ -117,3 +117,21 @@ title = "Wellfleet"
 image = "img/20.png"
 thumb = "img/20-thumb.png"
 description = "12 in x 16 in. watercolor + pen. 2019. sold."
+
+[[items]]
+title = "Aurora"
+image = "img/21.png"
+thumb = "img/21-thumb.png"
+description = "12 in x 16 in. watercolor. 2019. commission."
+
+[[items]]
+title = "Duck Creek"
+image = "img/22.png"
+thumb = "img/22-thumb.png"
+description = "12 in x 16 in. watercolor + pen. 2019. sold."
+
+[[items]]
+title = "Nauset Light in the Fall"
+image = "img/23.png"
+thumb = "img/23-thumb.png"
+description = "12 in x 16 in. watercolor. 2019. commission."
