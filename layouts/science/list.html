@@ -12,22 +12,16 @@
   </section>
   <!-- /page title -->
 
-  <!-- about -->
+  <!-- contact -->
   <section class="section pt-5">
     <div class="container">
       <div class="row">
         <div class="col-md-8">
-          {{ range .Data.Pages }} 
-            <section class="section pt-1">
-              <h4 class=""><a class="text-dark" href="{{.Permalink}}">{{ .Title }}</a>
-              </h4>
-              <p class="cars-text">{{ .Summary }}</p>
-            </section>
-          {{ end }}
+          {{ .Content }}
         </div>
       </div>
     </div>
   </section>
-  <!-- /about -->
+  <!-- /contact -->
 
 {{ end }}

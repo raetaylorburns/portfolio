@@ -1,28 +1,12 @@
 # Site settings
-#baseurl = "http://example.org/"
 baseurl = "https://raetaylorburns.github.io/portfolio/"
-
 languageCode = "en-us"
-title = "Rae Taylor-Burns"
-theme = "hugrid"
 sectionPagesMenu = "main"
-
-contentdir = "content"
-datadir = "data"
-layoutdir = "layouts"
+theme = "frances"
 publishDir = "docs"
 
 [params]
-    # Meta
-
-    title = "Rae Taylor-Burns. Scientist + Artist."
-    subtitle = "Enjoys painting, throwing big pots and surfing small waves. Developing solutions that aid coastal communities and planners in coping with a changing climate. Studying how coastal habitat can increase resiliency to storms and rising sea levels. Learn more about previous projects at resilienseas.github.io To inquire about art, science, commissions, or anything else email raetaylorburns at gmail dot com or direct message @rae_paints on instagram."
-#    author = "Rae Taylor-Burns"
-    description = "scientist + artist"
-#    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
-
-    # Body background color
-    bodybgcolor = "#f9f9f9"
-
-    # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
+	name = "Rae Taylor-Burns"
+	description = "Scientist and Artist"
+	email = "raetaylorburns @ gmail dot com"
+	author = "Rae Taylor-Burns"
